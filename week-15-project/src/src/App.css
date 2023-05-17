@@ -1,0 +1,43 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.myForm {
+  display: flex;
+  flex-direction: column;
+  max-width: 100%;
+  align-items: center;
+  justify-content: center;
+  margin-bottom: 3rem;
+}
+
+.form-btn {
+  margin-top: 1rem;
+}
+
+.table-cap {
+  font-size: larger;
+  font-weight: bold;
+  margin-bottom: 1rem;
+}
+
+.myTable {
+  display: flex;
+  flex-direction: column;
+  margin: auto;
+}
+
+.table-header {
+  padding-right: 5rem;
+}
+
+.table-data {
+  padding-right: 7rem;
+}
+
+.table-input {
+  
+}
